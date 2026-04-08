@@ -8,7 +8,7 @@ A polished iOS finance tracking app built with SwiftUI. Track income and expense
 
 | Home | Add Transaction | Balances |
 |------|----------------|----------|
-| ![Home](Screenshots/home.png) | ![Add Transaction](Screenshots/add_transaction.png) | ![Balances](Screenshots/balances.png) |
+| ![Home](home.png) | ![Add Transaction](Screenshots/add_transaction.png) | ![Balances](Screenshots/balances.png) |
 
 | Financial Health | Profile | Auth |
 |-----------------|---------|------|
