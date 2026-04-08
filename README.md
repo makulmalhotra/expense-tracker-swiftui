@@ -8,13 +8,15 @@ A polished iOS finance tracking app built with SwiftUI. Track income and expense
 
 | Home | Add Transaction | Balances |
 |------|----------------|----------|
-| /Users/lavanya.kapoor_int/Desktop/home.png | ![Add Transaction](Screenshots/add_transaction.png) | ![Balances](Screenshots/balances.png) |
+| 1<img width="392" height="752" alt="home" src="https://github.com/user-attachments/assets/47180084-02d9-46cd-9c01-f5cde06efd41" />
+ | <img width="409" height="751" alt="add_transaction" src="https://github.com/user-attachments/assets/a312c559-43e2-4185-8957-39407c22c5ed" />
+2 | 3<img width="397" height="763" alt="balances" src="https://github.com/user-attachments/assets/3c324732-07b2-496b-a7ea-49516d0db9de" />
+ |
 
 | Financial Health | Profile | Auth |
 |-----------------|---------|------|
-| ![Health](Screenshots/financial_health.png) | ![Profile](Screenshots/profile.png) | ![Auth](Screenshots/auth.png) |
+| 4 | 5 | 6 |
 
-> To add screenshots: run the app in the simulator, take screenshots with `Cmd+S`, and place them in the `Screenshots/` folder with the filenames above.
 
 ---
 
