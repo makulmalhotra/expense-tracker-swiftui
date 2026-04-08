@@ -126,7 +126,61 @@ tuf_mm/
 
 ---
 
-## Setup & Installation
+## Run on iOS Simulator (No Xcode needed)
+
+If you just want to try the app without building from source, a pre-built simulator build is included in the repo.
+
+### Step 1 — Download the zip
+
+Go to the GitHub repository and download **`PayU_Simulator.zip`** from the root of the repo (or the Releases section).
+
+### Step 2 — Unzip
+
+Double-click `PayU_Simulator.zip` in Finder, or run:
+
+```bash
+unzip PayU_Simulator.zip
+```
+
+You'll get a folder containing `tuf_mm.app`.
+
+### Step 3 — Open the iOS Simulator
+
+Open Xcode, then go to:
+
+```
+Xcode menu → Open Developer Tool → Simulator
+```
+
+Or launch **Simulator.app** directly from Spotlight (`Cmd+Space` → type "Simulator").
+
+### Step 4 — Boot a simulator
+
+In Simulator, go to **File → Open Simulator** and pick any iPhone (iPhone 15 or later recommended). Wait for it to fully boot to the home screen.
+
+### Step 5 — Install the app
+
+**Option A — Command line (recommended):**
+
+```bash
+xcrun simctl install booted /path/to/tuf_mm.app
+```
+
+Then launch it:
+
+```bash
+xcrun simctl launch booted mm.tuf-mm
+```
+
+**Option B — Drag and drop:**
+
+Drag the `tuf_mm.app` file directly onto the booted simulator window. The app icon will appear on the home screen. Tap it to open.
+
+> **Note:** If drag-and-drop shows an error, use the command line option above — it works reliably every time.
+
+---
+
+## Setup & Installation (Build from source)
 
 ### 1. Clone the repository
 
