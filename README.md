@@ -1,4 +1,4 @@
-<img width="412" height="770" alt="auth" src="https://github.com/user-attachments/assets/6e618de2-0da0-4e46-8c04-1437b9d69239" /># PayU — Personal Finance Manager
+# PayU — Personal Finance Manager
 
 A polished iOS finance tracking app built with SwiftUI. Track income and expenses across multiple currencies, visualize spending habits with interactive charts, and manage your financial health — all with smooth animations and full light/dark mode support.
 
